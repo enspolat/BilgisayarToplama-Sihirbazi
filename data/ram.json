@@ -1,0 +1,45 @@
+{
+    "title":"RAM",
+    "products":[
+        {
+            "manufacturer":"G.Skill",
+            "name":"Ripjaws V",
+            "img":"gSkillRipjaws",
+            "total-memory": "32GB",
+            "memory-config": "32GB (2 x 16GB)",
+            "type":"DDR4",
+            "speed":"3600",
+            "price":99.99
+        },    
+        {
+            "manufacturer":"G.Skill",
+            "name":"Ripjaws V",
+            "img":"gSkillRipjaws",
+            "total-memory": "64GB",
+            "memory-config": "64GB (2 x 32GB)",
+            "type":"DDR4",
+            "speed":"3600",
+            "price":199.99
+        },    
+        {
+            "manufacturer":"G.Skill",
+            "name":"Trident Z RGB",
+            "img":"gSkillTrident",
+            "total-memory": "32GB",
+            "memory-config": "32GB (2 x 16GB)",
+            "type":"DDR4",
+            "speed":"3600",
+            "price":119.99
+        },    
+        {
+            "manufacturer":"G.Skill",
+            "name":"Trident Z RGB",
+            "img":"gSkillTrident",
+            "total-memory": "64GB",
+            "memory-config": "64GB (2 x 32GB)",
+            "type":"DDR4",
+            "speed":"3600",
+            "price":229.99
+        }    
+    ]
+}

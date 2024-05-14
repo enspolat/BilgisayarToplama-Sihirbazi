@@ -1,0 +1,29 @@
+{
+    "title":"GPU",
+    "products":[
+        {
+            "manufacturer":"EVGA",
+            "chipset":"GeForce RTX 3070",
+            "name":"XC3 ULTRA GAMING",
+            "img":"evga3070",
+            "memory":"8GB",
+            "price":559.99
+        },
+        {
+            "manufacturer":"EVGA",
+            "chipset":"GeForce RTX 3080",
+            "img":"evga3080",
+            "name":"FTW3 ULTRA GAMING",
+            "memory":"12GB",
+            "price":799.99
+        },
+        {
+            "manufacturer":"EVGA",
+            "chipset":"GeForce RTX 3090",
+            "img":"evga3090",
+            "name":"FTW3 ULTRA GAMING",
+            "memory":"24GB",
+            "price":1179.99
+        }       
+    ]
+}

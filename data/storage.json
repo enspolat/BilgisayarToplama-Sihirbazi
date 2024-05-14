@@ -1,0 +1,21 @@
+{
+    "title":"Storage",
+    "products":[
+        {
+            "manufacturer":"Samsung",
+            "name":"870 EVO",
+            "img":"samsung870EVO",
+            "size": "1TB",
+            "type":"2.5in. SSD",
+            "price":99.99
+        },    
+        {
+            "manufacturer":"Samsung",
+            "name":"980 Pro",
+            "img":"samsung980PRO",
+            "size": "1TB",
+            "type":"M.2 NVMe SSD",
+            "price":129.99
+        }             
+    ]
+}

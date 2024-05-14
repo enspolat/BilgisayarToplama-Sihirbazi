@@ -1,0 +1,44 @@
+{
+    "title":"CPU Cooler",
+    "products":[
+        {
+            "manufacturer":"CoolerMaster",
+            "type":"air",
+            "name":"Hyper 212 EVO V2 with LGA1700",
+            "img":"coolerMasterHyper212",
+            "socket":["LGA1700", "LGA1200", "LGA2066", "LGA2011-v3", "LGA2011", "LGA1151", "LGA1150", "LGA1155", "LGA1156", "AM4", "AM3+", "AM3", "AM2+", "AM2", "FM2+", "FM2", "FM1"],
+            "price":49.99,
+            "fan-size":120
+        },
+        {
+            "manufacturer":"Corsair",
+            "type":"liquid",
+            "name":"iCUE H60i RGB PRO XT Liquid CPU Cooler",
+            "img":"corsairH60i",
+            "socket":["LGA1700", "LGA1200", "LGA1150", "LGA1151", "LGA1155", "LGA1156", "LGA1366", "LGA2011", "LGA2066", "AM5", "AM4"],
+            "price":99.99,
+            "radiator-size":120,
+            "fan-size":120
+        },
+        {
+            "manufacturer":"Corsair",
+            "type":"liquid",
+            "name":"iCUE H100i RGB PRO XT Liquid CPU Cooler",
+            "img":"corsairH100i",
+            "socket":["LGA1700", "LGA1200", "LGA1150", "LGA1151", "LGA1155", "LGA1156", "LGA1366", "LGA2011", "LGA2066", "AM5", "AM4", "AM3", "AM2", "sTRX4", "sTR4"],
+            "price":119.99,
+            "radiator-size":240,
+            "fan-size":120
+        },
+        {
+            "manufacturer":"Corsair",
+            "type":"liquid",
+            "name":"iCUE H150i RGB PRO XT Liquid CPU Cooler",
+            "img":"corsairH150i",
+            "socket":["LGA1700", "LGA1200", "LGA1150", "LGA1151", "LGA1155", "LGA1156", "LGA1366", "LGA2011", "LGA2066", "AM5", "AM4", "AM3", "AM2", "sTRX4", "sTR4"],
+            "price":159.99,
+            "radiator-size":360,
+            "fan-size":120
+        }
+    ]
+}
